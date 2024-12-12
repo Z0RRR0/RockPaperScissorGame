@@ -1,9 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Runtime.CompilerServices;
-using System.Text;
-using System.Threading.Tasks;
+// Removed unused classes...
 
 namespace RockPaperScissorGame
 {
@@ -15,7 +11,7 @@ namespace RockPaperScissorGame
 
             while (game.playAgain)
             {
-
+                
                 Console.WriteLine("\nWelcome To rock-paper-scissor game!");
                 Console.WriteLine("Press \"R\" for rock, \"S\" for scissors & \"P\" for paper\n");
 
